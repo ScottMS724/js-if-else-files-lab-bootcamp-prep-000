@@ -1,4 +1,4 @@
-var name = "Susan";
+var name = "Joe";
 var height = parseInt("70");
 
 // Don't worry about this
